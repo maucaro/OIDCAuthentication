@@ -1,4 +1,4 @@
-# OIDCAuthentication
+# OidcAuthentication
 
 This solution implements an ASP.NET (Core) custom Authentication Handler and Scheme for OIDC tokens (user_id) passed in the Authorization HTTP header (Bearer Token; see: (https://datatracker.ietf.org/doc/html/rfc6750)) The CertificatesUrl setting in appsetting.json is for Google Identity Platform/Firebase. It also includes a sample Web Api that uses the filter and a Unit Testing project.
 
