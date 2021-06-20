@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication.WebApi", "OIDCAuthentication.WebApi\OidcAuthentication.WebApi.csproj", "{B58E10D1-55D4-4B67-B7EC-78951AD384D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication.WebApi", "OidcAuthentication.WebApi\OidcAuthentication.WebApi.csproj", "{B58E10D1-55D4-4B67-B7EC-78951AD384D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication", "OIDCAuthentication\OidcAuthentication.csproj", "{AE5D52BF-DF06-4FF5-BCE1-517031126980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication", "OidcAuthentication\OidcAuthentication.csproj", "{AE5D52BF-DF06-4FF5-BCE1-517031126980}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication.Test", "OIDCAuthentication.Test\OidcAuthentication.Test.csproj", "{E9EE5C91-30D3-4462-8894-7A835D7BCBAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OidcAuthentication.Test", "OidcAuthentication.Test\OidcAuthentication.Test.csproj", "{E9EE5C91-30D3-4462-8894-7A835D7BCBAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OIDCAuthentication\OidcAuthentication.csproj">
+    <ProjectReference Include="..\OidcAuthentication\OidcAuthentication.csproj">
       <TreatAsUsed>true</TreatAsUsed>
     </ProjectReference>
   </ItemGroup>
